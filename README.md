@@ -1,4 +1,6 @@
 ### study-of-basic-gates
+###name-vinoth K R
+###reg no-212224050060
 
 **AIM:** 
 
@@ -63,17 +65,20 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot 2025-03-19 095012](https://github.com/user-attachments/assets/7293c6fa-87a8-4a61-b305-eb002af26133)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![386114303-13dacfc1-53ca-4797-8c89-dae89f67a4ef](https://github.com/user-attachments/assets/3054e261-a9b2-41f7-8a68-cc025871fc6b)
+
 
 **RTL realization Output:** 
+![Screenshot 2025-03-19 101737](https://github.com/user-attachments/assets/cb62c971-d39c-4196-9b90-cc637bfb1db2)
 
 **RTL**
+![401398430-c7458eb9-c5ce-4e33-b4e4-c2166877d440](https://github.com/user-attachments/assets/3da0926a-4fab-4f8c-9758-d62e28df045f)
 
 **Result:**
+Thus the basic logic gates are studied and the ttruth tables are verified.
 
 
