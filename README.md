@@ -1,6 +1,6 @@
-### study-of-basic-gates
-###name-vinoth K R
-###reg no-212224050060
+# study-of-basic-gates
+# name-vinoth K R
+# reg no-212224050060
 
 **AIM:** 
 
